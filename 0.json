@@ -16,7 +16,7 @@
 	"sites": [
 		{
 			"key": "豆瓣",
-			"name": "♥️豆瓣推荐┃接口免费┃6.13更新┃Q群497567220",
+			"name": "♥️豆瓣┃推荐",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"searchable": 0,
