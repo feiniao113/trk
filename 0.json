@@ -1,5 +1,4 @@
-//公众号：小胡软件
-//QQ交流群497567220
+
 
 {
 //jar
@@ -7,7 +6,7 @@
 
 
 //壁纸
-"wallpaper":"https://tool.weetai.cn/api",
+"wallpaper":"",
 
 
 //直播	
@@ -26,7 +25,7 @@
 
 
 //提示
-"warningText":"💖小胡同学提醒：接口免费，每次打开记得长按主页刷新💖",
+"warningText":"💖观影愉快💖",
 
 
 
