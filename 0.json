@@ -118,13 +118,6 @@
 			"ext": "http://www.lfytyl.com/api.php/app/"
 		},
 		{
-			"key": "啊班",
-			"name": "😠啊班┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "http://a.banwl.com/api.php/app/"
-		},
-		{
 			"key": "在线",
 			"name": "🗒️在线┃之家",
 			"type": 3,
@@ -174,13 +167,6 @@
 			"ext": "./XBPQ/热播之家.json"
 		},
 		{
-			"key": "一龙",
-			"name": "🌪️一龙┃蓝光",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/一龙.json"
-		},
-		{
 			"key": "新视觉",
 			"name": "👁️‍🗨️视觉┃影视",
 			"type": 3,
@@ -195,32 +181,11 @@
 			"ext": "./XBPQ/两个bt.json"
 		},
 		{
-			"key": "城市电影",
-			"name": "🏙️城市┃电影",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/城市电影.json"
-		},
-		{
-			"key": "圣城",
-			"name": "🏝️圣城┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/圣城.json"
-		},
-		{
 			"key": "魔力",
 			"name": "🎲魔力┃蓝光",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "./XBPQ/魔力.json"
-		},
-		{
-			"key": "来看",
-			"name": "😻来看┃点播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/来看点播.json"
 		},
 		{
 			"key": "饭团",
@@ -292,13 +257,6 @@
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": "./XBPQ/子子.json"
-		},
-		{
-			"key": "TVB",
-			"name": "📭TVB┃云播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/tvb.json"
 		},
 		{
 			"key": "双十",
@@ -429,249 +387,11 @@
 			"ext": "./js/mangguo.js"
 		},
 		{
-			"key": "玩偶",
-			"name": "🎨玩偶┃G  O",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt $$$https://wogg.xyz/",
-			"jar": "./jar/pg.jar"
-		},
-		{
-			"key": "找资源",
-			"name": "🌞资源┃G  O",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx",
-			"jar": "./jar/pg.jar"
-		},
-		{
-			"key": "易搜",
-			"name": "🌞易搜┃G  O",
-			"type": 3,
-			"api": "csp_YiSo",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "./jar/pg.jar"
-		},
-		{
-			"key": "玩偶哥哥",
-			"name": "🍼玩偶┃哥哥",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/玩偶哥哥.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "Gitcafe",
-			"name": "🍼阿里┃纸条",
-			"type": 3,
-			"api": "csp_Gitcafe",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "csp_AliPS",
-			"name": "🍼阿里┃盘搜",
-			"type": 3,
-			"api": "csp_AliPS",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "csp_Yisou",
-			"name": "🍼阿里┃易搜",
-			"type": 3,
-			"api": "csp_Yisou",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "csp_Upyunso",
-			"name": "🍼阿里┃云搜",
-			"type": 3,
-			"api": "csp_Upyunso",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "csp_Zhaozy",
-			"name": "🍼阿里┃资源",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "橘子盘搜",
-			"name": "🍼橘子┃盘搜",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/橘子盘搜.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "土拨鼠搜索",
-			"name": "🍼土拨┃鼠鼠",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/土拨鼠搜索.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "云盘资源",
-			"name": "🍼云盘┃资源",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/云盘资源分享.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "我的小站",
-			"name": "🍼我的┃小站",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/我的小站.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "阿里云盘网",
-			"name": "🍼阿里┃云盘",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/阿里云盘网.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "豆豆飞",
-			"name": "🍼豆豆┃起飞",
-			"type": 3,
-			"api": "csp_XYQHikerAL",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/豆豆飞.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "DOVX搜索",
-			"name": "🍼七夜┃搜索",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/DOVX搜索.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "云盘分享",
-			"name": "🍼云盘┃分享",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQB/云盘分享.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "盘搜索",
-			"name": "🍼PanS┃阿里",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQH/盘搜索.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "push_agent",
-			"name": "🍸手机┃推送",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
 			"key": "LiteApple",
 			"name": "🍎苹果┃影视",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "快看影视",
-			"name": "👀快看┃影视",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "77",
-			"name": "🔱七七┃影视",
-			"type": 3,
-			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -774,43 +494,6 @@
 			"ext": "./js/310.js"
 		},
 		{
-			"key": "斗鱼",
-			"name": "🐟斗鱼┃直播",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./js/douyu.js"
-		},
-		{
-			"key": "虎牙",
-			"name": "🐯虎牙┃直播",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./js/hy.js"
-		},
-		{
-			"key": "bili直播",
-			"name": "🅱️哔哩┃直播",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./js/blzb.js"
-		},
-		{
-			"key": "Yj1211",
-			"name": "📽️聚合┃直播",
-			"type": 3,
-			"api": "csp_Yj1211",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"jar": "./jar/xyq.jar"
-		},
-		{
 			"key": "音悦台",
 			"name": "🎵音悦┃台哦",
 			"type": 3,
@@ -836,77 +519,6 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"ext": "./js/酷狗mv.js"
-		},
-		{
-			"key": "动漫巴士",
-			"name": "🚕动漫┃巴士",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/巴士.json"
-		},
-		{
-			"key": "维奇",
-			"name": "💠维奇┃动漫",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/维奇.json"
-		},
-		{
-			"key": "路漫漫",
-			"name": "🚶漫漫┃动漫",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/路漫漫.js"
-		},
-		{
-			"key": "兔小贝",
-			"name": "🐰兔兔┃小贝",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XYQH/兔小贝.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "兔小贝2",
-			"name": "🐰兔兔┃小贝",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XYQH/兔小贝2.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "Bili1",
-			"name": "📚幼儿┃乐园",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./json/幼儿乐园.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "Bili3",
-			"name": "📚小学┃课堂",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./json/小学课堂.json",
-			"jar": "./jar/xyq.jar"
 		},
 		{
 			"key": "Bili4",
