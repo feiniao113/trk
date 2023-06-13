@@ -21,7 +21,8 @@
 			"api": "csp_NiNi",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar": "./spider.jar"
 			
 		},
 		{
