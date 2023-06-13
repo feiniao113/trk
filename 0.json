@@ -929,42 +929,6 @@
 			"filterable": 0,
 			"ext": "./json/高中课堂.json",
 			"jar": "./jar/xyq.jar"
-		},
-		{
-			"key": "xh",
-			"name": "🇨🇳公众号",
-			"type": 3,
-			"api": "csp_xh",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"key": "xh1",
-			"name": "🇨🇳小胡软件",
-			"type": 3,
-			"api": "csp_xh",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"key": "xh2",
-			"name": "🇨🇳请勿相信",
-			"type": 3,
-			"api": "csp_xh",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"key": "xh3",
-			"name": "🇨🇳任何广告",
-			"type": 3,
-			"api": "csp_xh",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
 		}
 	],
 	"parses": [
