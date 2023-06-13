@@ -15,6 +15,16 @@
 	"warningText": "💖观影愉快💖",
 	"sites": [
 		{
+			"key": "csp_Nbys",
+			"name": "泥巴",
+			"type": 3,
+			"api": "csp_NiNi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+			
+		},
+		{
 			"key": "豆瓣",
 			"name": "♥️豆瓣┃推荐",
 			"type": 3,
