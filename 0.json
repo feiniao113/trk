@@ -580,87 +580,8 @@
 			"name": "解析3",
 			"type": 1,
 			"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="
-		},
-		{
-			"name": "解析4",
-			"type": 1,
-			"url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="
-		},
-		{
-			"name": "解析5",
-			"type": 1,
-			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-		},
-		{
-			"name": "解析6",
-			"type": 1,
-			"url": "http://dmjun.top/home/api?type=ys&uid=1308098&key=knprsyzABHSUVWZ359&url="
-		},
-		{
-			"name": "解析7",
-			"type": 0,
-			"url": "https://www.nxflv.com/?url="
-		},
-        {
-            "name": "解析8",
-            "type": 0,
-            "url": "https://vip.bljiex.com/?v="
-        },
-        {
-            "name": "解析9",
-            "type": 0,
-            "url": "https://chaxun.Truechat365.com/?url="
-        },
-        {
-            "name": "解析10",
-            "type": 0,
-            "url": "https://wds.ecsxs.com/225173.html?url="
-        },
-        {
-            "name": "解析11",
-            "type": 1,
-            "url": "https://jiexi.380k.com/?url="
-        },
-        {
-            "name": "解析12",
-            "type": 0,
-            "url": "https://svip.bljiex.cc/?v="
-        },
-        {
-            "name": "解析13",
-            "type": 0,
-            "url": "https://www.1717yun.com/api/?url="
-        },
-        {
-            "name": "解析14",
-            "type": 0,
-            "url": "http://91fanli.top/m3u8/?url="
-        },
-		{
-			"name": "解析15",
-			"type": 0,
-			"url": "https://svip.bljiex.cc/?url="
-		},
-		{
-			"name": "解析16",
-			"type": 0,
-			"url": "https://www.8090g.cn/jiexi/?url=",
-			"ext": {
-				"header": {
-					"User-Agent": "Mozilla/5.0"
-				}
-			}
-		},
-		{
-			"name": "解析17",
-			"type": 0,
-			"url": "https://api.jiexi.la/?url=",
-			"ext": {
-				"header": {
-					"User-Agent": "Mozilla/5.0"
-				}
-			}
 		}
+		
 	],
 	"flags": [
 		"youku",
