@@ -516,11 +516,6 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "Json轮询",
-			"type": 2,
-			"url": "Sequence"
-		},
-		{
 			"name": "解析2",
 			"type": 1,
 			"url": "https://vip.daina.hk/fyzy/json.php?url="
