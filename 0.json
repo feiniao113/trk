@@ -71,20 +71,6 @@
 			"ext": "https://aidiapp.xyz/xgapp.php/v2/"
 		},
 		{
-			"key": "聚合蓝光",
-			"name": "🔒聚合┃蓝光",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "http://xn--yeta099v.online:66/api.php/app/"
-		},
-		{
-			"key": "聚合资源",
-			"name": "⛵聚合┃资源",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "https://tv.ysle.cn/api.php/app/"
-		},
-		{
 			"key": "飞云",
 			"name": "🚁飞云┃资源",
 			"type": 3,
