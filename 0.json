@@ -70,14 +70,7 @@
 			"api": "csp_AppYsV2",
 			"ext": "https://aidiapp.xyz/xgapp.php/v2/"
 		},
-		{
-			"key": "飞云",
-			"name": "🚁飞云┃资源",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"playerType": "1",
-			"ext": "http://www.lfytyl.com/api.php/app/"
-		},
+		
 		{
 			"key": "低端",
 			"name": "🔅低端┃影视",
