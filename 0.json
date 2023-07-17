@@ -26,15 +26,6 @@
 			
 		},
 		{
-			"key": "豆瓣",
-			"name": "♥️豆瓣┃推荐",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./js/douban.js"
-		},
-		{
 			"key": "直播转点播",
 			"name": "📺电视┃直播",
 			"type": 3,
@@ -217,12 +208,6 @@
 			"name": "✂️简简┃采集",
 			"type": 1,
 			"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/"
-		},
-		{
-			"key": "初语",
-			"name": "💬初语┃采集",
-			"type": 1,
-			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"
 		},
 		{
 			"key": "快看",
