@@ -14,17 +14,7 @@
 	],
 	"warningText": "💖观影愉快💖",
 	"sites": [
-		{
-			"key": "csp_Nbys",
-			"name": "👑泥巴┃影视",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./spider.jar"
-			
-		},
+		
 		{
 			"key": "直播转点播",
 			"name": "📺电视┃直播",
