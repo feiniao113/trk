@@ -216,26 +216,6 @@
 			"ext": "./XBPQ/555.json"
 		},
 		{
-			"key": "大米",
-			"name": "🍑大米┃星球",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/大米.json"
-		},
-		{
-			"key": "vidh",
-			"name": "🍑Vidh┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/vidhub.json"
-		},
-		{
 			"key": "爱看",
 			"name": "🍑爱看┃影院",
 			"type": 3,
@@ -244,16 +224,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/爱看影院.json"
-		},
-		{
-			"key": "思古",
-			"name": "🍑思古┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/思古.json"
 		},
 		{
 			"key": "企鹅体育",
