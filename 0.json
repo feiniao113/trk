@@ -99,46 +99,13 @@
 			"ext": "./XBPQ/子子.json"
 		},
 		{
-			"key": "双十",
-			"name": "🔮双十┃影院",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/双十电影.js"
-		},
-		{
 			"key": "cokemv",
 			"name": "🚡COK┃影院",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/cokemv.js"
 		},
-		{
-			"key": "皮皮鸭",
-			"name": "👲皮皮┃鸭鸭",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/皮皮鸭.json"
-		},
-		{
-			"key": "轻简",
-			"name": "✂️简简┃采集",
-			"type": 1,
-			"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/"
-		},
-		{
-			"key": "快看",
-			"name": "💈快看┃切片",
-			"type": 1,
-			"api": "https://kuaikan-api.com/api.php/provide/vod/",
-			"categories": [
-				"国产剧",
-				"港台剧",
-				"欧美剧",
-				"韩国剧",
-				"国产动漫",
-				"日本动漫"
-			]
-		},
+		
 		{
 			"key": "暴风",
 			"name": "🌀暴风┃资源",
