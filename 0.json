@@ -31,20 +31,7 @@
 			"ext": "https://aidiapp.xyz/xgapp.php/v2/"
 		},
 		
-		{
-			"key": "素白白",
-			"name": "💮白白┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/白白.js"
-		},
-		{
-			"key": "奥特",
-			"name": "🤖奥特┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/Auete.js"
-		},
+		
 		{
 			"key": "厂长",
 			"name": "🏭厂长┃影视",
@@ -52,20 +39,8 @@
 			"api": "csp_XBPQ",
 			"ext": "./XBPQ/厂长.json"
 		},
-		{
-			"key": "Libo",
-			"name": "👶Libo┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/libvio.json"
-		},
-		{
-			"key": "热播",
-			"name": "🌭热播┃之家",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": "./XBPQ/热播之家.json"
-		},
+		
+		
 		{
 			"key": "新视觉",
 			"name": "👁️‍🗨️视觉┃影视",
