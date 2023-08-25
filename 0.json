@@ -16,27 +16,6 @@
 	"sites": [
 		
 		{
-			"key": "直播转点播",
-			"name": "📺电视┃直播",
-			"type": 3,
-			"api": "./js/直播转点播.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./json/直播仓.json"
-		},
-		{
-			"key": "Bili",
-			"name": "🅱哔哩┃哔哩",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "./json/blbl.json",
-			"jar": "./jar/xyq.jar"
-		},
-		{
 			"key": "电影港",
 			"name": "💫电影┃港湾",
 			"type": 3,
