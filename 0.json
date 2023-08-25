@@ -187,17 +187,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/mangguo.js"
 		},
-		{
-			"key": "LiteApple",
-			"name": "🍎苹果┃影视",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./jar/xyq.jar"
-		},
+		
 		{
 			"key": "农民",
 			"name": "🌾农民┃影视",
