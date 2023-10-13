@@ -242,15 +242,7 @@
 			"quickSearch": 0,
 			"ext": "./js/310.js"
 		},
-		{
-			"key": "音悦台",
-			"name": "🎵音悦┃台哦",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"ext": "./js/音悦台.js"
-		},
+		
 		{
 			"key": "喜马拉雅",
 			"name": "🐴喜马┃拉雅",
